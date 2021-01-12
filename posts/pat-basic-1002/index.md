@@ -1,6 +1,5 @@
 # PAT Basic 1002
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # PAT Basic 1002. 写出这个数（20分）
 
  (C语言实现)
@@ -14,7 +13,7 @@
 
 ### 输入格式
 
-每个测试输入包含 1 个测试用例，即给出自然数 *n* 的值。这里保证 *n* 小于 $${10}^{100}$$
+每个测试输入包含 1 个测试用例，即给出自然数 *n* 的值。这里保证 *n* 小于 ${10}^{100}$
 
 
 
