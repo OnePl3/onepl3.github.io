@@ -1,4 +1,4 @@
-# PAT Basic 1022
+# PAT Basic 1023
 
 
 # PAT Basic 1023. 组个最小数（20分）
